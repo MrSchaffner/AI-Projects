@@ -10,15 +10,15 @@ The Manager, Emily Davis, came to us for help. By Leveraging Zapier’s AI Autom
 
 <img
   src="https://github.com/MrSchaffner/AI-Projects/blob/main/Images_Display/Weather_Automation_Slide_01.jpg"
-  alt="Star Paws Studio Image"
+  alt=""
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 <img
   src="https://github.com/MrSchaffner/AI-Projects/blob/main/Images_Display/Weather_Automation_Slide_02.jpg"
-  alt="Star Paws Studio Image"
+  alt=""
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 <img
-  src="https://github.com/MrSchaffner/AI-Projects/blob/main/Images_Display/Weather_Automation_email.jpg"
-  alt="Star Paws Studio Image"
+  src="https://github.com/MrSchaffner/AI-Projects/blob/main/Images_Display/Weather_Automation_email.png"
+  alt=""
   style="display: inline-block; margin: 0 auto; max-width: 300px">
