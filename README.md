@@ -4,12 +4,12 @@ Projects created using AI tools.
 
 ## Projects
 
-### [Website Creation](https://github.com/MrSchaffner/Unity/tree/master/Website_Creation)
+### [Website Creation](https://github.com/MrSchaffner/AI-Projects/tree/main/Website_Creation)
 
 LLM tools have been a revolution in web design. Check out what is possible with a little bit of vision.
 
 <img
-  src="https://github.com/MrSchaffner/Unity/blob/master/Images_Display/Ball_Maze_01.png"
+  src="https://github.com/MrSchaffner/AI-Projects/blob/main/Images_Display/starpawsstudio.png"
   alt="Star Paws Studio Image"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
