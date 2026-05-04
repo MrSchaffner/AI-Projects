@@ -4,6 +4,10 @@ Projects created using AI tools.
 
 ## Projects
 
+### [Music Downloader](https://github.com/MrSchaffner/Music-Downloader-Python)
+
+Functional, standalone Music downloading app. Paste a list of your desired songs, and run it to download them. Why pay a monthly fee when you can instead just download your favorites? Created 99% with Claude 4.6 Prompts.
+
 ### [Website Creation](https://github.com/MrSchaffner/AI-Projects/tree/main/Website_Creation)
 
 LLM tools have been a revolution in web design. Check out what is possible with a little bit of vision.
